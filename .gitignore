@@ -1,0 +1,4 @@
+.air.toml
+cmd/tmp/
+cmd/web/tmp/
+tmp/
